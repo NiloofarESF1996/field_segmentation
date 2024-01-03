@@ -7,21 +7,16 @@ PyTorch implementation of UNet for semantic segmentation of aerial imagery
 4. Contains a self-supervised method to train network encoder on unlabeled data (Upcoming task).
 <html>
 <p align="center">
-<img width="600" height="600" src="https://raw.githubusercontent.com/NiloofarESF1996/field_segmentation/main/demo/result.png">
+<img width="600" height="600" src="https://raw.githubusercontent.com/Niloofaresf1996/field_segmentation/main/demo/result.png">
     <br>
 <em>Example of the network outputs visualization</em>
 </p>
 </html>
 
-## Upcoming Tasks
-1. Complete the self-supervised part of the repository and train the encoder on our unlabeled dataset.
-2. Implement dataloaders and evaluation metrics for FloodNet, and EarthVision challenges.
-3. Add Distributed Data-Parallel strategy to the repository to enable multi-GPUs training.
-
 ## Get started
 1. Clone the repository
     ```
-    git clone https://github.com/NiloofarESF1996/field_segmentation.git
+    git clone https://github.com/Niloofaresf1996/field_segmentation.git
     ```
     We call this directory as `$RESA_ROOT`
 
