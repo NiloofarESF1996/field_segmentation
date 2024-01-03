@@ -1,4 +1,4 @@
-# Semantic segmentation of aerial imagery using U-Net 
+# Field segmentation  
 
 PyTorch implementation of UNet for semantic segmentation of aerial imagery
 1. This repository enables training UNet with various encoders like ResNet18, ResNet34, etc.
